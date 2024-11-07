@@ -64,7 +64,6 @@ body {
 .container {
   margin: 0 auto;
   background-color: var(--color-background);
-  position: relative;
   padding: calc(var(--gutter) * 4) calc(var(--gutter) * 2);
   font-size: 15px;
   font-weight: var(--font-weight-regular);
@@ -75,7 +74,7 @@ body {
 /* Large */
 @media (min-width: 830px) {
   .container {
-    padding: calc(var(--gutter) * 3);
+    padding: var(--gutter) calc(var(--gutter) * 3);
   }
 }
 .head {
@@ -95,6 +94,9 @@ body {
   margin-bottom: 20px;
 }
 @media (min-width: 830px) {
+  .head {
+    margin-bottom: 40px;
+  }
   .head h2 {
     font-size: 36px;
   }
