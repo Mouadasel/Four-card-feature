@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Mouadasel/Product_preview_card](https://github.com/Mouadasel/Product_preview_card)
-- Live Site URL: [https://mouadasel.github.io/Product_preview_card/](https://mouadasel.github.io/Product_preview_card/)
+- Solution URL: [[https://github.com/Mouadasel/Product_preview_card](https://github.com/Mouadasel/Four-card-feature)
+- Live Site URL: [https://mouadasel.github.io/Four-card-feature](https://mouadasel.github.io/Four-card-feature/)
 
 ## My process
 
